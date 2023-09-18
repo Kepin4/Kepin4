@@ -1,1 +1,2 @@
-<p> Hello, Kenalin namaku Kelvin, atau biasa di kenal sebagai Kepin. Orangnya rada intropret tapi kalo dah kenal bek bacot buet dah, pokok nya welkom dah welkom. </p>
+<p> Hello, Kenalin namaku Kelvin, atau biasa di kenal sebagai Kepin. Orangnya rada intropret tapi kalo dah kenal bek bacot buet dah, pokok nya welkom dah welkom. Ku berharap sih ini bakal jadi portofolio dari segala project ku yang di mulai dari umur ku yang ke 18, tepat pada tanggal 19 Sep 2023, ini merupakan sebuah petualangan yang baru! wish me luck </p>
+<p> Btw anaknya backend bet, kalo ditanya soal frontend rada rada, hehe </p>
