@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Pin 👋
+# Hi, I'm Pin
 
 **Frontend developer** · former full-stack · AI enthusiast
 
@@ -13,7 +13,7 @@
 
 ---
 
-## 👤 About
+## About
 
 I'm a developer who started on the **full-stack** side and is now specializing in **frontend**.
 
@@ -23,7 +23,7 @@ Today I focus on **React, React Native, and Next.js**, building interfaces that 
 
 ---
 
-## 🌱 Side Hustle: Tech & AI in Daily Life
+## Side Hustle: Tech & AI in Daily Life
 
 Outside of work, I keep learning about technology, especially **how to put AI to practical use in everyday life**:
 
@@ -33,7 +33,7 @@ Outside of work, I keep learning about technology, especially **how to put AI to
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -59,7 +59,7 @@ Outside of work, I keep learning about technology, especially **how to put AI to
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -70,13 +70,13 @@ Outside of work, I keep learning about technology, especially **how to put AI to
 
 ---
 
-## 📬 Get in Touch
+## Get in Touch
 
-- 🌐 Portfolio: [k3p.in](https://k3p.in)
-- 💼 LinkedIn: [your-handle](https://www.linkedin.com/in/kelvinfang)
+- Portfolio: [k3p.in](https://k3p.in)
+- LinkedIn: [your-handle](https://www.linkedin.com/in/kelvinfang)
 
 <div align="center">
 
-*Thanks for stopping by!* ✨
+*Thanks for stopping by!*
 
-</div>
+</div
