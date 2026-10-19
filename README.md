@@ -73,7 +73,7 @@ Outside of work, I keep learning about technology, especially **how to put AI to
 ## Get in Touch
 
 - Portfolio: [k3p.in](https://k3p.in)
-- LinkedIn: [your-handle](https://www.linkedin.com/in/kelvinfang)
+- LinkedIn: [kelvinfang](https://www.linkedin.com/in/kelvinfang)
 
 <div align="center">
 
